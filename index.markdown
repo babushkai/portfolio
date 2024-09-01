@@ -9,13 +9,18 @@ layout: home
 
 ![Image title](/assets/dk.jpg){: width="250" style="float: right; margin-left: 1em;" }
 
-Senior Cloud Support Engineer at [EPAM Systems](https://www.epam.com/) where I worked as Google global vendor SME, handled over 300 technical internal tickets. Some of which are visible in the [issue tracker](https://issuetracker.google.com/issues?q=kuwabara@google.com%20). I have also contributed to Open source issues([example](https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues/2600))
+Ex. Senior Cloud Support Engineer(L3-L4) at [EPAM Systems](https://www.epam.com/) where I worked as Google global vendor SME, handled over 1000 technical internal tickets. Some of which are visible in the [issue tracker](https://issuetracker.google.com/issues?q=kuwabara@google.com%20). I have also contributed to Open source issues([example](https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues/2600))
 
-I also run http://babushkaml.com/ where I summarize the technical tips I learn throughout my journey.
+I also run babushkaml.com(currently under development) where I summarize the technical tips I learn throughout my journey.
 
 My current interest is ML/LLMOps with architcture design including infrastructure, network and c++ optimization.
 
-## Experiences
+## Domain
+- Cloud Application Development(Industry standard)
+- MLOps Lifecycle management
+- Technical troubleshooting at multi-layered commercial application
+
+## Career
 
 - Senior Application Support at [EPAM Systems](https://www.epam.com/)
 - Data Scientist & Computer Vision Engineer at [Startup](https://datafluct.com/)
@@ -26,3 +31,6 @@ My current interest is ML/LLMOps with architcture design including infrastructur
 ## Contact
 - Email: daisuke0582@gmail.com
 - Phone: +81 90 7230 8574
+
+## Location
+Currently at Bangkok, Thailand
