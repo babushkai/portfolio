@@ -2,12 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+lang: en
+title: "English"
+
 ---
 
-
-
-![Image title](/assets/dk.jpg){: width="250" style="float: right; margin-left: 1em;" }
 
 Ex. Senior Cloud Support Engineer(L3-L4) at [EPAM Systems](https://www.epam.com/) where I worked as Google global vendor SME, handled over 1000 technical internal tickets. Some of which are visible in the [issue tracker](https://issuetracker.google.com/issues?q=kuwabara@google.com%20). I have also contributed to Open source issues([example](https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues/2600))
 
