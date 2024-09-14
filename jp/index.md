@@ -7,7 +7,7 @@ title: "Japanese"
 
 [EPAM Systems](https://www.epam.com/)でシニアクラウドサポートエンジニア(L3-L4)として働いていた際、GoogleのグローバルベンダーSMEとして、1000件以上の技術的内部チケットを処理しました。その一部は[イシュートラッカー](https://issuetracker.google.com/issues?q=kuwabara@google.com%20)で確認できます。また、オープンソースの問題にも貢献しています（[例](https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues/2600)）。
 
-また、技術的なヒントを学びながらまとめたhttps://babushkaml.com も運営しています。
+また、技術的なヒントを学びながらまとめた[babushkaml.com](https://babushkaml.com) も運営しています。
 
 現在の興味は、インフラストラクチャ、ネットワーク、C++の最適化を含むML/LLMOpsのアーキテクチャ設計です。
 

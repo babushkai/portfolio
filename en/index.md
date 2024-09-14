@@ -11,7 +11,7 @@ title: "English"
 
 Ex. Senior Cloud Support Engineer(L3-L4) at [EPAM Systems](https://www.epam.com/) where I worked as Google global vendor SME, handled over 1000 technical internal tickets. Some of which are visible in the [issue tracker](https://issuetracker.google.com/issues?q=kuwabara@google.com%20). I have also contributed to Open source issues([example](https://github.com/GoogleCloudPlatform/vertex-ai-samples/issues/2600))
 
-I also run https://babushkaml.com where I summarize the technical tips I learn throughout my journey.
+I also run [babushkaml.com](https://babushkaml.com) where I summarize the technical tips I learn throughout my journey.
 
 My current interest is ML/LLMOps with architcture design including infrastructure, network and c++ optimization.
 
