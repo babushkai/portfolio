@@ -30,7 +30,7 @@ My current interest is ML/LLMOps with architcture design including infrastructur
 
 ## Contact
 - Email: daisuke0582@gmail.com
-- Phone: +81 90 7230 8574
+- Phone: +31 0645315489
 
 ## Location
-Currently at Bangkok, Thailand
+Currently at Delft, Netherlands
